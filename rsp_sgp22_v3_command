@@ -1,0 +1,6 @@
+python ..\rsp_env\Scripts\pycrate_asn1compile.py
+    -i  instance/PKIXImplicit88.asn
+        instance/PKIXExplicit88.asn
+        instance/pe_v3.1
+        instance/rsp_22_v3.asn
+    -o rsp_22_v3.py
