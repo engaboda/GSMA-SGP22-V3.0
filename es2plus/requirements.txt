@@ -1,0 +1,5 @@
+django==4.2.4
+djangorestframework==3.14.0
+requests==2.31.0
+pycrate==0.6.0
+psycopg2==2.9.9
