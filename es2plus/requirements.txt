@@ -3,3 +3,4 @@ djangorestframework==3.14.0
 requests==2.31.0
 pycrate==0.6.0
 psycopg2==2.9.9
+pycryptodome==3.18.0
